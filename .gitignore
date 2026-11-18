@@ -3,3 +3,6 @@
 
 # Builds CMake
 cmake-build-*/
+
+# Sauvegarde de partie
+sauvegarde.txt
