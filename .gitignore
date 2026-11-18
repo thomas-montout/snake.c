@@ -1,0 +1,5 @@
+# Config CLion / JetBrains
+.idea/
+
+# Builds CMake
+cmake-build-*/
